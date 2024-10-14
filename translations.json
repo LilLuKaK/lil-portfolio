@@ -1,0 +1,34 @@
+{
+  "es": {
+    "hero": {
+      "description": "Desarrollador apasionado y autodidacta con una gran determinación para enfrentar desafíos y desarrollar soluciones innovadoras."
+    },
+    "projects": {
+      "title": "Proyectos",
+      "description": "Este icono indica que dicha web no sera compatible con formatos moviles"
+    },
+    "skills": {
+      "title": "Skills",
+      "description": "Esta y todas las demas webs en este sitio han sido hosteadas en mi Raspberry PI 3"
+    },
+    "footer": {
+      "copyright": "&copy; 2024 Lucas Bravo. Todos los derechos reservados."
+    }
+  },
+  "en": {
+    "hero": {
+      "description": "Passionate and self-taught developer with a great determination to face challenges and develop innovative solutions."
+    },
+    "projects": {
+      "title": "Projects",
+      "description": "This icon indicates that this website is not compatible with mobile formats"
+    },
+    "skills": {
+      "title": "Skills",
+      "description": "This and all other websites on this site have been hosted on my Raspberry PI 3"
+    },
+    "footer": {
+      "copyright": "&copy; 2024 Lucas Bravo. All rights reserved."
+    }
+  }
+}
